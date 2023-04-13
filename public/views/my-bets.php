@@ -49,7 +49,7 @@
 
             <div class="collapse navbar-collapse" id="navbarNav"> 
                 <ul class="navbar-nav mr-auto"></ul> 
-                <button class="btn btn-outline-light ml-2" onclick="window.location.href='./views/scripts/logout.php'"> Sair </button> 
+                <button class="btn btn-outline-light ml-2" onclick="window.location.href='./scripts/logout.php'"> Sair </button> 
             </div>
         </nav>
 
