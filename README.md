@@ -1,4 +1,4 @@
-# DevEvolution - Trabalho Final | Jogo do Bicho Online
+# Jogo do Bicho Online
 
 ## Apresentação do Projeto:
 O sistema de apostas é uma plataforma online que permite aos usuários realizarem apostas em animais em diferentes concursos. Para utilizar o sistema, o usuário precisa estar logado, portanto é necessário criar uma conta de usuário com informações básicas como nome, email e senha.
